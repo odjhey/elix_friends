@@ -1,21 +1,17 @@
-# ElixFriends
+## Explore DB integration using Ecto and friends
 
-**TODO: Add description**
+## TODOs
 
-## Installation
+- [ ] CRUDs
+- [ ] Atomic Transactions
+- [ ] Transaction Rollbacks
+- [ ] Consume Views
+- [ ] Exec DBProcs/Functions if possible
+- [ ] Pool connections
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `elix_friends` to your list of dependencies in `mix.exs`:
+- [ ] add tests
 
-```elixir
-def deps do
-  [
-    {:elix_friends, "~> 0.1.0"}
-  ]
-end
-```
+## References
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/elix_friends](https://hexdocs.pm/elix_friends).
-
+- https://hexdocs.pm/ecto/Ecto.html
+- https://www.toptal.com/elixir/meet-ecto-database-wrapper-for-elixir
